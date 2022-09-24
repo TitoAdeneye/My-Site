@@ -1,8 +1,8 @@
 .top-container #body{
-    background-image: url("./IMAGES/scribble.jpg");
+    background-image: url("https://media.istockphoto.com/vectors/hand-drawn-collection-of-swishes-swoops-emphasis-doodles-highlight-vector-id1199351391?k=20&m=1199351391&s=612x612&w=0&h=3CXFQ5f_Etobj67LkYijqTd_KPKQu9hvpy7W2QN2px4=");
     background-color: whitesmoke;
     font-family: 'BioRhyme', serif;
-    font-size: 3rem;
+    font-size: 2rem;
     margin-top: 2rem;
     padding: 20rem;
     text-align: center;
@@ -23,7 +23,7 @@
 .middle-container{
     color: black;
     font-family: 'Andada Pro', serif;
-    font-size: 2rem;
+    font-size: 1rem;
     line-height: 2;
     margin-top: 2rem;
     text-align: center;
