@@ -1,2 +1,2 @@
 # My-Site
-My personal site using HTML and CSS
+My personal site using HTML, CSS and Bootstrap.
