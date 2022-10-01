@@ -3,7 +3,7 @@ body{
 }
 
 .top-container{
-    background-image: url(/IMAGES/scribble.jpg);
+    background-image: url("/IMAGES/scribble.jpg");
     font-family: 'BioRhyme', serif;
 }
 
