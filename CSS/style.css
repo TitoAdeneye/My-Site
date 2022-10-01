@@ -4,26 +4,21 @@ body{
 
 .top-container{
     background-image: url(/IMAGES/scribble.jpg);
-    background-color: whitesmoke;
     font-family: 'BioRhyme', serif;
-    font-size: 2rem;
-    padding: 15rem;
-    text-align: center;
-}
-
-.top-container hr{
-    width: 45%;
 }
 
 .top-container .name{
     background-color: white;
-    padding: 0.5rem;
+    font-size: 52px;
+    font-weight: bolder;
+    padding: 2rem;
 }
 
-.name p{
-    padding-bottom: 1rem;
+.top-container .tittle p{
+    background-color: white;
+    font-size: 32px;
+    padding: 1rem;
 }
-
 
 .middle-container{
     color: black;
