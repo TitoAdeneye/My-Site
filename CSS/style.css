@@ -79,6 +79,16 @@ body{
 }
 
 @media (max-width:641px){
+        .cloud{
+        height: 3%;
+        width: 10%;
+    }
+
+    .clouds{
+        height: 3%;
+        width: 10%;
+    }
+    
     .mountain{
         height: 75%;
         width: 85%;
